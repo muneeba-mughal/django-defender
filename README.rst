@@ -166,6 +166,7 @@ following to your ``urls.py``
        # your own patterns follow...
    ]
 
+If you have custom login view, then you can also use `watch_login` decorator.
 
 Migrations
 **********
